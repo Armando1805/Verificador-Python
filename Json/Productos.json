@@ -1,0 +1,29 @@
+{
+    "productos": {
+        "1": [
+            "Play Station 5",
+            "399 Dll",
+            "Img/Productos/01Ps5.png"
+        ],
+        "2": [
+            "Xbox Series S",
+            "499 Dll",
+            "Img/Productos/02Xbox.png"
+        ],
+        "3": [
+            "Nintendo Switch",
+            "599 Dll",
+            "Img/Productos/03Switch.png"
+        ],
+        "4": [
+            "SteamDeck",
+            "699 Dll",
+            "Img/Productos/04SteamDeck.png"
+        ],
+        "5": [
+            "Atari",
+            "799 Dll",
+            "Img/Productos/05Atari.png"
+        ]
+    }
+}
